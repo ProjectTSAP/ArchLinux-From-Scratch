@@ -5,7 +5,7 @@ Done by Jason Okafor.
 
 Device/Machine: Macbook M3 Air (2024, virtualised via UTM)
 
-Aim: to install Arch Linux with no packages, just ~2.6GB of essential CLI software storage
+Aim: to install Arch Linux with no packages, just ~2.6GB of essential CLI software storage downloaded
 
 Outcome: Transfer from raw Arch CLI ISO to XFCE GUI desktop (with a nice fastfetch CLI in the process :) )
 
